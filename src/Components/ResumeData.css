@@ -1,0 +1,15 @@
+body{
+    height: auto;
+    background: linear-gradient(112.4deg, rgb(176, 174, 225) 44.9%, rgb(135, 197, 235) 94.5%);
+
+
+}
+
+.resumeData_container{
+    height: auto;
+    width: 75%;
+    margin:10% auto;
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+}

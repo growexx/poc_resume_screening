@@ -1,0 +1,32 @@
+.div_container{
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(112.4deg, rgb(176, 174, 225) 44.9%, rgb(135, 197, 235) 94.5%);
+    gap: 20px;
+}
+
+.container{
+    height: 70vh;
+    border-radius: 10px;
+    width: 70%;
+    margin: 10% auto;
+    background: #fff;
+}
+.InputFiles input{
+    border: 2px solid black;
+
+}
+.div_buttons{
+    margin-top: 20px;
+}
+.div_buttons>button{
+    margin-left: 13px;
+    width: 200px;
+    cursor: pointer;
+}
+.parsedresult{
+    height: 30vh;
+    margin: auto;
+}
